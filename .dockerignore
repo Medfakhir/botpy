@@ -1,0 +1,8 @@
+node_modules
+npm-debug.log
+.DS_Store
+*.md
+test_queue.js
+namecheap_install.sh
+easystaff.php
+easystaff_callback.php

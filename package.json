@@ -1,0 +1,13 @@
+{
+  "name": "easystaff-bot",
+  "version": "1.0.0",
+  "description": "Browser automation bot for invoice.easystaff.io",
+  "main": "easystaff_bot_simple.js",
+  "scripts": {
+    "test": "node easystaff_bot_simple.js '{\"email\":\"test@example.com\",\"name\":\"Test User\",\"amount\":9.99,\"product\":\"1 Month IPTV\"}'"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "puppeteer": "^21.0.0"
+  }
+}
